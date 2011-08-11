@@ -9,5 +9,7 @@ public class gitTest {
 		// TODO Auto-generated method stub
 		System.out.println("hello git!");
 	}
+	public static void d() {
 
+	}
 }
